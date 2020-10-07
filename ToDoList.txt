@@ -1,4 +1,4 @@
 ToDo:
 
-1. Create GIT repository (Создать GIT репозиторий) - Complete.
-2. User Andrew: insert task in this file - Performed
+1. Create GIT repository (Создать GIT репозиторий)  - Complete
+2. User Andrew: insert task in this file 			- Performed

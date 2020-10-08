@@ -3,3 +3,4 @@ ToDo:
 1. Create GIT repository (Создать GIT репозиторий)  - Complete
 2. User Andrew: insert task in this file 			- Performed
 3. Hello Git!
+4. А можно тоже самое сделать на своём сервере? Гит свой запустить?

@@ -4,3 +4,4 @@ ToDo:
 2. User Andrew: insert task in this file 			- Performed
 3. Hello Git!
 4. А можно тоже самое сделать на своём сервере? Гит свой запустить?
+4.1 Да, можно! К этому и надо стремиться.
